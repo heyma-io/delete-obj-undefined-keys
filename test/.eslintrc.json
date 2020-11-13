@@ -1,0 +1,3 @@
+{
+    "extends": "@heyma/eslint-config/mocha"
+}
