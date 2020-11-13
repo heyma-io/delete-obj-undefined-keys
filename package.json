@@ -2,9 +2,9 @@
   "name": "delete-obj-undefined-keys",
   "version": "1.0.0",
   "description": "A npm package to delete undefided keys",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/heyma-io/delete-obj-undefined-keys#readme",
   "devDependencies": {
-    "@heyma/eslint-config": "^1.4.3"
+    "@heyma/eslint-config": "^1.4.3",
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
   }
 }
