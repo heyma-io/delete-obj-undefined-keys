@@ -1,5 +1,5 @@
 {
-  "name": "delete-obj-undefined-keys",
+  "name": "@heyma/delete-obj-undefined-keys",
   "version": "1.0.0",
   "description": "A npm package to delete undefided keys",
   "main": "src/index.js",
